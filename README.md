@@ -50,6 +50,9 @@ modeling.ipynb
 validation/
 validation.ipynb
 
+data/
+lung_cancer_prediction_dataset.csv
+
 ## Independent Validation Study
 
 In addition to the main lung cancer classification study, this project includes an independent validation of another group's machine learning project focused on depression prediction.
